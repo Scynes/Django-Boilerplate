@@ -60,7 +60,7 @@ exit
 ```
 
 #### Step 4
-With are virtual environment shell now active, we can proceed to creating the actual Django project structure.
+With our virtual environment shell now active, we can proceed to creating the actual Django project structure.
 
 ```
 django-admin startproject django-boilerplate .
