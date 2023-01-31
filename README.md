@@ -63,7 +63,7 @@ exit
 With our virtual environment shell now active, we can proceed to creating the actual Django project structure.
 
 ```
-django-admin startproject django-boilerplate .
+django-admin startproject django_boilerplate .
 ```
 
 Once this command is finished running, you should now see a folder structure inside of "Django Boilerplate" like below -
